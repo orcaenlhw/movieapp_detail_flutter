@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:movieapp/components/search_list.dart';
-import 'package:movieapp/models/movie.dart';
-import 'package:movieapp/network/api.dart';
+import 'package:movieapp_detail_flutter/components/search_list.dart';
+import 'package:movieapp_detail_flutter/models/movie.dart';
+import 'package:movieapp_detail_flutter/network/api.dart';
 
 class SearchPage extends StatefulWidget {
   SearchPage({Key? key}) : super(key: key);

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:movieapp_detail_flutter/components/movie_list.dart';
-import 'package:movieapp/models/movie.dart';
-import 'package:movieapp/network/api.dart';
-import 'package:movieapp/pages/search_page.dart';
+import 'package:movieapp_detail_flutter/models/movie.dart';
+import 'package:movieapp_detail_flutter/network/api.dart';
+import 'package:movieapp_detail_flutter/pages/search_page.dart';
 
 class MainPage extends StatefulWidget {
   MainPage({Key? key}) : super(key: key);

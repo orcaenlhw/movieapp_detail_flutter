@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:movieapp/models/movie.dart';
+import 'package:movieapp_detail_flutter/models/movie.dart';
 
 class ResPopular {
   ResPopular({
